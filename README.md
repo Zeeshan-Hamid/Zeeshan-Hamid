@@ -84,6 +84,6 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 <hr>
 
 <p align='center'>
-  <a  href="https://app.daily.dev/zeeshanhamid"><img src="https://api.daily.dev/devcards/v2/YLTVpH9SKr05Q3IAwyPBV.png?r=bdj" width="356" alt="Zeeshan Hamid's Dev Card"/></a>
-
+  <a href="https://app.daily.dev/zeeshanhamid"><img src="https://api.daily.dev/devcards/v2/YLTVpH9SKr05Q3IAwyPBV.png?type=wide&r=u4r" width="652" alt="Zeeshan Hamid's Dev Card"/></a>
+ 
 </p>
