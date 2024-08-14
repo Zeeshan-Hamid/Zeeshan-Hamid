@@ -35,7 +35,7 @@
 ✔ I’m looking to collaborate with any **Open - Source contribution**<br>
 ✔ I’m looking for help for learning **Remote Sensing**<br>
 ✔ I regularly write articles on [Medium App](https://medium.com/@zeeshanhamid17) <br>
-✔ I sometimes like to write code on [leetcode](https://leetcode.com/Akash_Chowrasia/) <br>
+✔ I sometimes like to write code on [leetcode](https://leetcode.com/u/zeeshan_hamid/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
