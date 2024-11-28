@@ -3,22 +3,20 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Zeeshan Hamid</h1>
-<h3 align="center">FullStack Developer</h3>
+<h3 align="center">AI/ML Enthusiast | FullStack Developer</h3>
 <p align="center">
-<a href="www.linkedin.com/in/zeeshan-hamid-b0a198224" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/zeeshan_hamid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/zeeshan-hamid-b0a198224" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/zeeshan_hamid/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="leetcode" height="30" width="40" /></a>
 <a href = "mailto: zeeshanhamid03@gmail.com"><img align="center" src="https://simpleicons.org/icons/gmail.svg" height="30" width="40" /></a>
 </p>
 </p>
 
-
-
 <p align="center">
   <em>
     This is ME, Zeeshan Hamid, a <b>final year</b> undergraduate from <b>FAST NUCES</b>, Lahore</a>. <br>
-    A budding <b>FullStack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Competitive Programming Enthusiast</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    A budding <b>AI/ML Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>FullStack Software Developer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> himself and wants a <b>platform</b> to 
-    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px"> and 
     <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
   </em> 
   <br>
@@ -30,12 +28,11 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Talking about Personal Stuffs...***
 
 ✔ Pronouns: ***He/His*** or ***TeamMaker***😉 <br>
-✔ I’m currently Developing **Node Commerce** E-commerce <br>
-✔ I’m currently learning **ReactJS**, **NodeJS**, **MongoDb** & **Rest API**<br>
-✔ I’m looking to collaborate with any **Open - Source contribution**<br>
-✔ I’m looking for help for learning **Remote Sensing**<br>
+✔ I’m currently Developing **AI-driven solutions and FullStack applications** <br>
+✔ My expertise includes **NLP, RAG (Retrieval-Augmented Generation)**, and **Generative AI**<br>
+✔ I’m looking to collaborate on **AI/ML and Open Source contributions**<br>
 ✔ I regularly write articles on [Medium App](https://medium.com/@zeeshanhamid17) <br>
-✔ I sometimes like to write code on [leetcode](https://leetcode.com/u/zeeshan_hamid/) <br>
+✔ I sometimes like to solve problems on [LeetCode](https://leetcode.com/u/zeeshan_hamid/) <br>
 ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
 ✔ Fun fact : *At The time of Stress coding, I use to be in half sleeping mode*<br><br><br><br>
  
@@ -45,7 +42,7 @@
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,js,mongodb,cpp,codepen,gcp,html,css,js,postman,pug,sqlite,tailwind,threejs,vite,python" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,js,mongodb,cpp,codepen,gcp,html,css,js,postman,pug,sqlite,tailwind,threejs,vite,python,ai" />
   </a>
 </p>
 
