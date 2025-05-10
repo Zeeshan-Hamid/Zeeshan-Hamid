@@ -45,6 +45,10 @@
     <img src="https://skillicons.dev/icons?i=react,nodejs,express,git,js,mongodb,cpp,codepen,gcp,html,css,js,postman,pug,sqlite,tailwind,threejs,vite,python,ai" />
   </a>
 </p>
+<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zeeshan-hamid&layout=compact&langs_count=8&theme=radical" />
+</p>
 
   <hr>
  
